@@ -36,7 +36,7 @@ def main():
         </style>
         <div class="popup" id="popup">
             <div class="message">Hai Mas Fuu Chan!!</div>
-            <p>Thank you for being super ramah dan mau jadi temen aku di BP! It is such a fun experience and it wouldn't be not complete the experience with u! I hope we can meet again in the better place and better time.</p>
+            <p>Thank you for being super ramah dan mau jadi temen aku dan temen-temen MBKM lain di BP! It is nice to know U. U also need to know that our intern experience wouldn't be complete without U! I hope all your wish come true! Hope we can meet again in better place and better time.</p>
             <div class="emoji">😊</div>
         </div>
 
